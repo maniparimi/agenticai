@@ -10,3 +10,5 @@ groq
 fastapi
 uvicorn
 duckduckgo-search
+streamlit
+google-generativeai
